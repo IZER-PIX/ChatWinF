@@ -1,0 +1,17 @@
+H:\repo\WinFormsChat\ClientForm\bin\Debug\net7.0-windows\ClientForm.exe
+H:\repo\WinFormsChat\ClientForm\bin\Debug\net7.0-windows\ClientForm.deps.json
+H:\repo\WinFormsChat\ClientForm\bin\Debug\net7.0-windows\ClientForm.runtimeconfig.json
+H:\repo\WinFormsChat\ClientForm\bin\Debug\net7.0-windows\ClientForm.dll
+H:\repo\WinFormsChat\ClientForm\bin\Debug\net7.0-windows\ClientForm.pdb
+H:\repo\WinFormsChat\ClientForm\obj\Debug\net7.0-windows\ClientForm.csproj.AssemblyReference.cache
+H:\repo\WinFormsChat\ClientForm\obj\Debug\net7.0-windows\ClientForm.Form1.resources
+H:\repo\WinFormsChat\ClientForm\obj\Debug\net7.0-windows\ClientForm.csproj.GenerateResource.cache
+H:\repo\WinFormsChat\ClientForm\obj\Debug\net7.0-windows\ClientForm.GeneratedMSBuildEditorConfig.editorconfig
+H:\repo\WinFormsChat\ClientForm\obj\Debug\net7.0-windows\ClientForm.AssemblyInfoInputs.cache
+H:\repo\WinFormsChat\ClientForm\obj\Debug\net7.0-windows\ClientForm.AssemblyInfo.cs
+H:\repo\WinFormsChat\ClientForm\obj\Debug\net7.0-windows\ClientForm.csproj.CoreCompileInputs.cache
+H:\repo\WinFormsChat\ClientForm\obj\Debug\net7.0-windows\ClientForm.dll
+H:\repo\WinFormsChat\ClientForm\obj\Debug\net7.0-windows\refint\ClientForm.dll
+H:\repo\WinFormsChat\ClientForm\obj\Debug\net7.0-windows\ClientForm.pdb
+H:\repo\WinFormsChat\ClientForm\obj\Debug\net7.0-windows\ClientForm.genruntimeconfig.cache
+H:\repo\WinFormsChat\ClientForm\obj\Debug\net7.0-windows\ref\ClientForm.dll
